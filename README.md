@@ -1,1 +1,0 @@
-# haldol-shell-shocked
